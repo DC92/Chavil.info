@@ -48,7 +48,7 @@ if(isset($_POST['submitted'])) {
 		//If there is no error, send the email
 		if(!isset($hasError)) {
 
-			$emailTo = 'me@somedomain.com';
+			$emailTo = 'contact@chaville-informatique.fr';
 			$subject = 'Formulaire de contact de '.$name;
 			$sendCopy = trim($_POST['sendCopy']);
 			$body = "Name: $name \n\nEmail: $email \n\nComments: $comments";
@@ -116,7 +116,7 @@ if(isset($_POST['submitted'])) {
 						<span class="error"><?=$commentError;?></span> 
 					<?php } ?>
 				</li>
-				<li class="inline"><input type="checkbox" name="sendCopy" id="sendCopy" value="true"<?php if(isset($_POST['sendCopy']) && $_POST['sendCopy'] == true) echo ' checked="checked"'; ?> /><label for="sendCopy">Recevoir une copie du message</label></li>
+				<li class="inline"><input type="checkbox" name="sendCopy" id="sendCopy" value="true" checked="checked" /><label for="sendCopy">Recevoir une copie du message</label></li>
 				<li class="screenReader"><label for="checking" class="screenReader">Pour envoyer ce formulaire, ne saisissez RIEN dans ce champ</label><input type="text" name="checking" id="checking" class="screenReader" value="<?php if(isset($_POST['checking']))  echo $_POST['checking'];?>" /></li>
 				<li class="buttons"><input type="hidden" name="submitted" id="submitted" value="true" /><button type="submit">Envoyer</button></li>
 			</ol>

@@ -1,0 +1,6 @@
+Bouton "Home" :
+if ( true === $args['show_home'] || '1' === $args['show_home'] || 1 === $args['show_home'] )
+			$text = 'Home8';
+
+Logo responsive
+Inclure les deltas theme elite dans theme/info
