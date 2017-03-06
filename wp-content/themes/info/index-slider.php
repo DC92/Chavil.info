@@ -1,17 +1,15 @@
 <?php
 $elitepress_lite_options=theme_data_setup(); 
 $current_options = wp_parse_args(  get_option( 'elitepress_lite_options', array() ), $elitepress_lite_options );
-$settings=array(
-	'animation'=>$current_options['animation'],
-	'animationSpeed'=>$current_options['animationSpeed'],
-	'slide_direction'=>$current_options['slide_direction'],
-	'slideshowSpeed' =>$current_options['slideshowSpeed']
-);
- 
+
+// Custom DC
+$current_options['slideshowSpeed'] = 30000;
+
 wp_register_script('elitepress-slider',get_template_directory_uri().'/js/front-page/slider.js',array('jquery'));
 wp_localize_script('elitepress-slider','slider_settings',$current_options);
 wp_enqueue_script('elitepress-slider');
 ?>
+
 <?php if($current_options['home_banner_enabled'] == true) { ?>
 <!-- Slider -->
 <div class="homepage-mycarousel">

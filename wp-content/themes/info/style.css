@@ -8,11 +8,14 @@
  Version:      1.0.0
 */
 
-.site-logo h1 {
-	wwwwwwwwwwwwwwwcolor: blue
+/* Accueil */
+.fa1:before,
+.fa3:before,
+.fa4:before {
+	content: "\f10a";
 }
-.site-logo {
-    margin: 0 auto important!;
+.fa2:before {
+	content: "\f044";
 }
 
 /* Formulaire de contact */
