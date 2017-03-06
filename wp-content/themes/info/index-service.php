@@ -3,7 +3,7 @@
 	$current_options = wp_parse_args(  get_option( 'elitepress_lite_options', array() ), $elitepress_lite_options );
 
 	$a = get_posts (array ( 
-		'name' => 'service', 
+		'name' => 'services', 
 		'post_type' => 'post',
 		'post_status' => 'publish'
 	));
@@ -38,7 +38,7 @@
 							<div class="media service-area">
 								<div class="service-box"><i class="fa fa<?php echo $i; ?>"></i></div>
 								<div class="media-body">
-									<h4><a href="#"><?php echo $a[0]->post_title; ?></a></h4>
+									<h4><a href="service-<?php echo $i; ?>"><?php echo $a[0]->post_title; ?></a></h4>
 									<p><?php echo str_replace ("\n", "<br/>", $a[0]->post_content); ?></p>
 								</div>
 							</div>

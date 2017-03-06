@@ -18,6 +18,23 @@
 	content: "\f044";
 }
 
+/* Pages */
+.col-md-8 {
+	width: 100% !important;
+}
+.col-md-8 > p,
+.hc_sidebar,
+.blog-author {
+	display: none;
+}
+.container,
+.blog-post-img,
+.blog-info,
+.blog-area-full {
+    margin: 0;
+    padding: 0;
+}
+
 /* Formulaire de contact */
 .screenReader { left: -9999px; position: absolute; top: -9999px; }
 .thanks { background: #F2F3F6; border: 1px solid #7E8AA2; padding:10px; }
