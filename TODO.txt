@@ -3,4 +3,5 @@ if ( true === $args['show_home'] || '1' === $args['show_home'] || 1 === $args['s
 			$text = 'Home8';
 
 Logo responsive
-Inclure les deltas theme elite dans theme/info
+
+http://www.chaville-informatique.fr/?s=query => Title : Autem vel eum iriure dolor in hendrerit in 

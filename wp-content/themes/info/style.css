@@ -37,201 +37,205 @@
 
 /* Couleur thème */
 .navbar .navbar-nav > .open > a, .navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus {
-	color: #428bca !important ;
-	border-top: 2px solid #428bca !important ;
+	color: #428bca !important;
+	border-top: 2px solid #428bca !important;
 }
 .navbar-default .navbar-nav > li > a:hover {
-	color: #428bca !important ;
-	border-top: 2px solid #428bca !important ;
+	color: #428bca !important;
+	border-top: 2px solid #428bca !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .navbar-default .navbar-nav > .active > a {
-	border-top: 2px solid #428bca !important ;
+	border-top: 2px solid #428bca !important;
 }
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
-	border-top: 1px solid #428bca !important ;
+	border-top: 1px solid #428bca !important;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .header-section {
-    border-top: 7px solid #428bca !important ;
-	border-bottom: 7px solid #428bca !important ;
+    border-top: 7px solid #428bca !important;
+	border-bottom: 7px solid #428bca !important;
 }
 .site-logo h1 {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .site-logo h1 > a {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .flex-btn:after {
-    background: none repeat scroll 0 0 #428bca !important ;
+    background: none repeat scroll 0 0 #428bca !important;
 }
 .btn1 {
-    background-color: #428bca !important ;
+    background-color: #428bca !important;
 }
 .section-title {
-	background: none repeat scroll 0 0 #428bca !important ;
+	background: none repeat scroll 0 0 #428bca !important;
 }
 .section-title:before {
-    border-left-color: #428bca !important ;
+    border-left-color: #428bca !important;
 }
 .service-btn a:hover {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .service-area h4 > a:hover {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .home_portfolio_caption:hover {
-    border-bottom: 3px solid #428bca !important ;
+    border-bottom: 3px solid #428bca !important;
 }
 .home_portfolio_caption:hover h4 a {
-	color:#428bca !important ;
+	color:#428bca !important;
 }
 .port-btn a:hover {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .project-btn:after {
-    background: none repeat scroll 0 0 #428bca !important ;
+    background: none repeat scroll 0 0 #428bca !important;
 }
 .project-btn {
-    border: 2px solid #428bca !important ;
+    border: 2px solid #428bca !important;
 }
 .portfolio-pagination-scroll  li a:hover {
-	background: none repeat scroll 0 0 #428bca !important ;
-	border: 1px solid #428bca !important ;
+	background: none repeat scroll 0 0 #428bca !important;
+	border: 1px solid #428bca !important;
 }
 .features-area:hover h4 > a {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .testmonial-area h4 > span {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .pager a {
-	border: 2px solid #428bca !important ;
+	border: 2px solid #428bca !important;
 }
 .pager a.selected {
-	background: #428bca !important ;
-	border: 2px solid #428bca !important ;
+	background: #428bca !important;
+	border: 2px solid #428bca !important;
 }
 .blog-post-date {
-	background-color: #428bca !important ;
+	background-color: #428bca !important;
 }
 .home-blog-area:hover .home-blog-info h3 > a {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .home-blog-btn a:hover {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .client-pager a {
-	border: 2px solid #428bca !important ;
+	border: 2px solid #428bca !important;
 }
 .client-pager a.selected {
-	background: #428bca !important ;
-	border: 2px solid #428bca !important ;
+	background: #428bca !important;
+	border: 2px solid #428bca !important;
 }
 .footer-section {
-	border-top: 7px solid #428bca !important ;
+	border-top: 7px solid #428bca !important;
 }
 .footer-widget-title i {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .footer-widget-section p > span {
-	background-color: #428bca !important ;
+	background-color: #428bca !important;
 }
 .footer-widget-column address > span > a:hover {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .footer-blog-post:hover h4 a {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .footer-copyright-section {
-	background-color: #428bca !important ;
+	background-color: #428bca !important;
 }
 .team-area h5 {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .service-area2:hover .service-area-info2  h4 > a {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .service-btn2 a:hover {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .static-client-area h3 > span {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .portfolio_caption:hover h4 a {
-	color:#428bca !important ;
+	color:#428bca !important;
 }
 .project-btn:after {
-    background: none repeat scroll 0 0 #428bca !important ;
+    background: none repeat scroll 0 0 #428bca !important;
 }
 .project-btn {
-    border: 2px solid #428bca !important ;
+    border: 2px solid #428bca !important;
 }
 .detail-btn:after {
-    background: none repeat scroll 0 0 #428bca !important ;
+    background: none repeat scroll 0 0 #428bca !important;
 }
 .detail-btn:hover:after, 
 .detail-btn:active:after {
-	border: 1px solid #428bca !important ;
+	border: 1px solid #428bca !important;
 }
 .post-date {
-	background-color: #428bca !important ;
+	background-color: #428bca !important;
 }
 .blog-area-left:hover .blog-info h1 > a, 
 .blog-area-right:hover .blog-info h1 > a, 
 .blog-area-full:hover .blog-info h1 > a,
 .blog-area-left:hover .blog-detail-info h1  > a, 
 .blog-area-detail:hover .blog-detail-info h1  > a{
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .blog-btn:after {
-    background: none repeat scroll 0 0 #428bca !important ;
+    background: none repeat scroll 0 0 #428bca !important;
 }
 .blog-btn:hover:after, 
 .blog-btn:active:after {
-	border: 1px solid #428bca !important ;
+	border: 1px solid #428bca !important;
 }
 .sidebar-blog-post:hover h3 a {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .post-content li > i {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .post-content li:hover a {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .sidebar-widget-tags a:hover {
-    background-color: #428bca !important ;
+    background-color: #428bca !important;
 }
 .contact-detail address > span > a:hover {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .shortcode-btn-solid {
-	background-color: #428bca !important ;
+	background-color: #428bca !important;
 }
 .image-para-title {
-    color: #428bca !important ;
+    color: #428bca !important;
 }
 .image-para-title {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .blockquote-section blockquote {
-	border-left: 5px solid #428bca !important ;
+	border-left: 5px solid #428bca !important;
 }
 blockquote.blockquote2 {
-	border-right: 5px solid #428bca !important ;
+	border-right: 5px solid #428bca !important;
 }
 .error_404 h4 {
-	color: #428bca !important ;
+	color: #428bca !important;
 }
 .hc_scrollup {
-    background: none repeat scroll 0 0 #428bca !important ;
+    background: none repeat scroll 0 0 #428bca !important;
+}
+.blog-description a,
+.blog-post-info-detail a {
+	color: #428bca !important;
 }
 
 /* Formulaire de contact */
